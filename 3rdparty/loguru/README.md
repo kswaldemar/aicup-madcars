@@ -1,0 +1,1 @@
+CMake wrapper over loguru logging library. Dynamically download hpp file from network

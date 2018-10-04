@@ -1,0 +1,5 @@
+/build
+/cmake-build-*
+.idea
+/src/chipmunk_src/bin
+/arena/bin
